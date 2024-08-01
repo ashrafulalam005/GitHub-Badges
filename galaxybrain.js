@@ -1,1 +1,1 @@
-console.log("Galaxy Brain") 
+console.log("Galaxy Brain Badge") 
