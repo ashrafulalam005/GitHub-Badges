@@ -1,2 +1,2 @@
 # GitHub-Badges and Achievements
-Earn github badges.
+Earn github badges
