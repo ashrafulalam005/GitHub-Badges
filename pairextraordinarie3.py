@@ -1,1 +1,0 @@
-print("pairextraordinarie3")
